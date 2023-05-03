@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Donaciano "Don" Velasco
+### Hello!, my name is Donaciano "Don" Velasco
 #### I am a Software Engineer based out of Las Vegas, NV.
 ![I am a Software Engineer based out of Las Vegas, NV.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
