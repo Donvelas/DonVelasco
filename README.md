@@ -2,7 +2,7 @@
 #### I am a Software Engineer based out of Las Vegas, NV.
 ![I am a Software Engineer based out of Las Vegas, NV.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I love machine learning and AI and I'm obsessed in the opportunities to integrate it into our everyday lives.
+I love Machine Learning and AGI. I'm obsessed with all the different ways we can integrate AGI into our lives.
 
 Skills: Java / Python / React / JS / HTML / CSS
 
