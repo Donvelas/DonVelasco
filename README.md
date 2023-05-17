@@ -4,7 +4,7 @@
 
 I love Machine Learning and AGI. I'm obsessed with all the different ways we can integrate AGI into our lives.
 
-Skills: Java / Python / React / JS / HTML / CSS
+Skills: Java / Python / JS / HTML / CSS
 
 - 🌱 I’m currently learning AGI and Machine Learning.
 - 📫 How to reach me: velasco_media_group@gmail.com.
